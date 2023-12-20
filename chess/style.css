@@ -1,0 +1,239 @@
+body{
+    background-color: gray;
+}
+.black{
+    background-color:black;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+.white{
+    background-color:white;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+.a{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 130px;
+    left: 20px;
+}
+.b{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 130px;
+    left: 125px;
+}
+.c{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 130px;
+    left: 230px;
+}
+.d{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 130px;
+    left: 335px;
+}
+.e{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 130px;
+    left: 440px;
+}
+.f{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 130px;
+    left:540px;
+}
+.g{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 130px;
+    left: 645px;
+}
+.h{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 130px;
+    left: 745px;
+}
+.aaa{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 645px;
+    left: 20px;
+}
+.bbb{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 645px;
+    left: 125px;
+}
+.ccc{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 645px;
+    left: 230px;
+}
+.ddd{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 645px;
+    left: 335px;
+}
+.eee{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 645px;
+    left: 440px;
+}
+.fff{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 645px;
+    left:540px;
+}
+.ggg{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 645px;
+    left: 645px;
+}
+.hhh{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 645px;
+    left: 745px;
+}
+.aa{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+.bb{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 20px;
+    left: 125px;
+}
+.cc{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 20px;
+    left: 230px;
+}
+.dd{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 20px;
+    left: 335px;
+}
+.ee{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 20px;
+    left: 440px;
+}
+.ff{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 20px;
+    left:540px;
+}
+.gg{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 20px;
+    left: 645px;
+}
+.hh{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 20px;
+    left: 745px;
+}
+.aaaa{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 750px;
+    left: 20px;
+}
+.bbbb{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 750px;
+    left: 125px;
+}
+.cccc{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 750px;
+    left: 230px;
+}
+.dddd{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 750px;
+    left: 335px;
+}
+.eeee{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 750px;
+    left: 440px;
+}
+.ffff{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 750px;
+    left:540px;
+}
+.gggg{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 750px;
+    left: 645px;
+}
+.hhhh{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    top: 750px;
+    left: 750px;
+}
